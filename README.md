@@ -1,4 +1,5 @@
 # taller06
+Por: Carolina Alvarado, Kevin Barrazueta, Stefany Pedroza 
 
 ### Problemática
 
